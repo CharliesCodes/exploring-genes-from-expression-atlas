@@ -1,17 +1,5 @@
 # Life Science Computing
 
-## Aufgabenstellung <a id="task"></a>
-
-> Es wird eine umfassende Analyse eines Datensatzes erwartet. Dazu kann eine Progarmmiersprache eigener Wahl genutzt werden. Die Analyse wird als digitales Textdokument oder als ein <span style="color:blue">(Jupyter) Notebook </span>erstellt.
-
-### Bewertungskriterien: <a id="evaluation-criteria"></a>
- * Korrektheit der Analyse
- * umfassende Datenuntersuchung
- * Beschreibung der Daten
- * Diskussion der Ergebnisse
- * kritische Bewertung der Ergebnisse
- * Einhaltung der Regeln guter wissenschaftlicher Praxis
-
 ## Datensatz <a id="dataset"></a>
 
 **"Transcription profiling by high throughput sequencing in different developmental stages of Zea mays subsp. mays tissues"** <br>
