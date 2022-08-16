@@ -13,10 +13,8 @@ Data Source: [Expression Atlas EBI Datensatz](https://www.ebi.ac.uk/gxa/experime
 
 # Inhaltsverzeichnis  <a id="toc"></a>
 
-1. [Aufgabenstellung](#task)
-    1. [Bewertungskriterien](#evaluation-criteria)
-2. [Datensatz](#dataset)
-3. [Inhaltsverzeichnis](#toc)
+1. [Datensatz](#dataset)
+2. [Inhaltsverzeichnis](#toc)
 3. [Preparation](#prep)
     1. [Imports](#imports)
     2. [Load Data](#load-data)
